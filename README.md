@@ -1,2 +1,2 @@
 # stock-analysis
-To analysis DQo stocks 
+To analyse DQo stocks 
